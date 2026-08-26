@@ -1,0 +1,16 @@
+{
+  "name": "Bursa'yı Keşfet — Şehir Rehberi",
+  "short_name": "Bursa Rehberi",
+  "description": "Bursa'nın gezilecek yerleri, doğası, lezzetleri, rotaları ve şehir rehberi.",
+  "lang": "tr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f2e8",
+  "theme_color": "#225f4f",
+  "icons": [
+    {"src":"assets/app-icon-192.jpg","sizes":"192x192","type":"image/jpeg","purpose":"any"},
+    {"src":"assets/app-icon-512.jpg","sizes":"512x512","type":"image/jpeg","purpose":"any"}
+  ]
+}
